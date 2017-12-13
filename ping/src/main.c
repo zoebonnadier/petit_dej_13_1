@@ -14,6 +14,7 @@
 // TEST 1 2 1 2
 int main(void)
 {
+	return(1); //
     /* Structure permettant de stocker la configuration d'une ou plusieurs broches */
     GPIO_InitTypeDef GPIO_InitStructure;
 
